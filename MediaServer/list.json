@@ -1,0 +1,77 @@
+{
+    "movies":[
+        {
+            "id":0,
+            "title":"Inception",
+            "poster":"assets/0_thumbnail.jpg",
+            "year_of_release":"2010",
+            "duration":"2 hours 28 minutes",
+            "local_path":"D:/Inception (2010) [1080p]/Inception.2010.1080p.BrRip.x264.YIFY.mp4"
+        },
+        {
+            "id": 1,
+            "title": "Harry Potter and the Sorcerers Stone",
+            "poster":"assets/1_thumbnail.jpg",
+            "year_of_release": "2001",
+            "duration": "2 hours 32 minutes",
+            "local_path": "D:/HARRY POTTER  SERIES/1 Harry Potter and the Sorcerers Stone (2001) [1080p]/Harry.Potter.and.the.Sorcerers.Stone.2001.1080p.BrRip.x264.YIFY ( FIRST TRY).mp4"
+        },
+        {
+            "id": 2,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "poster":"assets/2_thumbnail.jpg",
+            "year_of_release": "2002",
+            "duration": "2 hours 40 minutes",
+            "local_path": "D:/HARRY POTTER  SERIES/2 Harry Potter and the Chamber of Secrets (2002) [1080p]/Harry.Potter.and.the.Chamber.of.Secrets.2002.1080p.BrRip.x264.YIFY.mp4"
+        },
+        {
+            "id": 3,
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "poster":"assets/3_thumbnail.jpg",
+            "year_of_release": "2004",
+            "duration": "2 hours 21 minutes",
+            "local_path": "D:/HARRY POTTER  SERIES/3 Harry Potter and the Prisoner of Azkaban (2004) [1080p]/Harry.Potter.and.the.Prisoner.of.Azkaban.2004.1080p.BrRip.x264.YIFY.mp4"
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter and the Goblet of Fire",
+            "poster":"assets/4_thumbnail.jpg",
+            "year_of_release": "2005",
+            "duration": "2 hours 37 minutes",
+            "local_path": "D:/HARRY POTTER  SERIES/4 Harry Potter and the Goblet of Fire (2005) [1080p]/Harry.Potter.and.the.Goblet.of.Fire.2005.1080p.BrRip.x264.YIFY.mp4"
+        },
+        {
+            "id": 5,
+            "title": "Harry Potter and the Order of the Phoenix",
+            "poster":"assets/5_thumbnail.jpg",
+            "year_of_release": "2007",
+            "duration": "2 hours 18 minutes",
+            "local_path": "D:/HARRY POTTER  SERIES/5 Harry Potter and the Order of the Phoenix (2007) [1080p]/Harry.Potter.and.the.Order.of.the.Phoenix.2007.1080p.BrRip.x264.YIFY.mp4"
+        },
+        {
+            "id": 6,
+            "title": "Harry Potter and the Half Blood Prince",
+            "poster":"assets/6_thumbnail.jpg",
+            "year_of_release": "2009",
+            "duration": "2 hours 33 minutes",
+            "local_path": "D:/HARRY POTTER  SERIES/6 Harry Potter and the Half Blood Prince (2009) [1080p]/Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4"
+        },
+        {
+            "id": 7,
+            "title": "Harry Potter and the Deathly Hallows Part 1",
+            "poster":"assets/7_thumbnail.jpg",
+            "year_of_release": "2010",
+            "duration": "2 hours 26 minutes",
+            "local_path": "D:/HARRY POTTER  SERIES/7 Harry Potter and the Deathly Hallows Part 1 (2010) [1080p]/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.1080p.BrRip.x264.YIFY.mp4"
+        },
+        {
+            "id": 8,
+            "title": "Harry Potter And The Deathly Hallows Part 2",
+            "poster":"assets/8_thumbnail.jpg",
+            "year_of_release": "2011",
+            "duration": "2 hours 10 minutes",
+            "local_path": "D:/HARRY POTTER  SERIES/8 Harry Potter And The Deathly Hallows Part 2 (2011) [1080p]/Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.1080p.BrRip.264.YIFY.mp4"
+        }
+    ],
+    "tv_shows":[]
+}

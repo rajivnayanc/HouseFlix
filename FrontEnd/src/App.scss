@@ -1,0 +1,128 @@
+$elevation-0-color:#212121;
+$elevation-1-color:#424242;
+$elevation-2-color:#616161;
+$text-color:#ffffff;
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: $elevation-0-color;
+    color: $text-color;
+    font-family: Roboto, sans-serif;
+}
+.test-bg{
+    background-color: violet;
+}
+.elevation-0{
+    background-color: $elevation-0-color;
+}
+.elevation-1{
+    background-color: $elevation-1-color;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.9);
+}
+.elevation-2{
+    background-color: $elevation-2-color;
+}
+
+.movie-thumbnail{
+    padding:10px;
+    position: relative;
+    
+}
+.thumbnail-header{
+    position: relative;
+}
+.thumbnail-img{
+    display: block;
+    height:300px;
+    background-position: center;
+    background-size: cover;
+    transition: all 0.25s ease-in-out;
+    border-radius: 5px;
+}
+.thumbnail-img-overlay{
+    position: absolute;
+    background-color: rgba(0,0,0,0.6);
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity:0 ;
+    transition: all 0.25s ease-in-out;
+    margin: 0;
+}
+
+.thumbnail-header:hover .thumbnail-img{
+    transform: translateY(-2.5%);
+}
+.thumbnail-header:hover .thumbnail-img-overlay{
+    transform: translateY(-2.5%);
+    opacity: 1;
+}
+.thumbnail-overlay-text{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    width: 90%;
+    transform: translate(-50%,-50%);
+}
+
+.thumbnail-body{
+    min-height: 100px;
+    padding: 10px;
+}
+.thumbnail-body-text{
+    width: 100%;
+}
+
+hr{
+    color:gray
+}
+.link-unstyled> a{
+    text-decoration: none;
+    color: $text-color;
+}
+.video-container{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.searchbar-input{
+    background-color:rgba(0,0,0,0);
+    border: none;
+    outline: none;
+    color: $text-color;
+    margin: 0;
+    transition: 0.5s ease-in-out;
+}
+.searchbar{
+    background-color:rgba(0,0,0,0);
+    // border: 0.25px solid white;
+    outline: none;
+    color: $text-color;
+    transition: all 0.25 ease;
+    border-radius: 5px;
+    padding: 0;
+}
+.searchbar-input:focus{
+    outline: none;
+}
+
+.searchbar:focus{
+    background-color:rgba(0,0,0,0.9);
+    // border: 0.5px solid white;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    text-decoration: none;
+    color:white;
+}
